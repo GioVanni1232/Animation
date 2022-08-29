@@ -18,7 +18,7 @@ playerImage.src = "images/adventurer.png";
 const spriteWidth = 50;
 const spriteHeight = 37;
 let gameFrame = 0;
-let stagerFrames = 5;
+let stagerFrames = 15;
 
 
 //animationStates
